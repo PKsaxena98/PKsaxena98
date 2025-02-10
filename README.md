@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyanshu Saxena
 - 👀 I’m interested in Data Analyst and Data Science
-- 🌱 I’m currently learning Machine Learning , python , Core Java.
+- 🌱 I’m currently learning Machine Learning , python , Core Java, PowerBi.
 - 💞️ I’m looking to collaborate on New startup
 - 📫 How to reach me becoder123@gmail.com
 <!---
